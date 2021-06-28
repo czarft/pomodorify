@@ -2,7 +2,7 @@
 
 DEFAULT_URI="https://open.spotify.com/user/125937873/playlist/5SgJR30RfzR5hO21TsQhBp"
 LOGFILE_PATH="./log_file.txt"
-POMO_WORK=25*60
+POMO_WORK=1*60
 POMO_SH_BREAK=5*60
 POMO_LN_BREAK=15*60
 N_POMOS=4 
