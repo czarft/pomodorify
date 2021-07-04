@@ -51,7 +51,7 @@ do
 	else 
 		#Start Work
 		osascript -e 'display notification "Get to work..." with title "Work Time"'
-		spotify play uri $DEFAULT_URI;
+		# spotify play uri $DEFAULT_URI;
 		sleep 0.25  
 		spotify play
 		countdown $POMO_WORK;
